@@ -1,0 +1,10 @@
+#!/usr/bin/env ruby
+
+def root(*args, &blk)
+  File.join File.expand_path("../..", __FILE__), *args, &blk
+end
+
+Dir.chdir(root)
+
+load root("lib/ro_cell/py/c.rb")
+::RoCell::Py::C.new.ivk

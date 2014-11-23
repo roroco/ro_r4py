@@ -1,0 +1,4 @@
+--color
+--require 'ro_rspec_helpers/ro_rspec_formatter'
+--format RoRspecFormatter
+--fail-fast

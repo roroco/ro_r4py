@@ -1,0 +1,11 @@
+<% test_file_attrs.tap do |t| %>
+from <%= t.full_mod %> import <%= t.kls %>
+from <%= t.test_helper %> import *
+from ro import ro_unittest
+
+
+class Test<%= t.kls %>(ro_unittest.TestCase):
+    def setUp(self, *args, **kwargs):
+        self.o = <%= t.init %>
+
+<% end %>

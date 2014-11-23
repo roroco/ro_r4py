@@ -1,0 +1,22 @@
+#!/usr/bin/env ruby
+
+ENV['RO_STAGE'] = 'test'
+ENV['RO_ROOT'] = File.expand_path("../..", __FILE__)
+
+require 'bundler'
+
+Bundler.require
+
+require File.expand_path('../../conf/ro_r4py.rb', __FILE__)
+
+begin
+	require File.expand_path('../../lib/ro_cell/spork', __FILE__)
+rescue LoadError
+	require 'ro_cell/spork'
+end
+
+$LOAD_PATH.unshift(File.expand_path('../../spec', __FILE__))
+
+Dir.chdir(ENV['RO_ROOT'])
+
+::RoCell::Spork.new.flow

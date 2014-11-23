@@ -1,0 +1,11 @@
+#!/usr/bin/env ruby
+
+Dir.chdir(File.expand_path("../..", __FILE__))
+
+begin
+	require File.expand_path('../../lib/ro_cell/ro_rspec', __FILE__)
+rescue LoadError
+	require 'ro_cell/rspec'
+end
+
+::RoCell::Rspec.new.flow

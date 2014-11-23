@@ -1,0 +1,78 @@
+2014-10-03 17:19:56 - 17:19:56: path:/home/roroco/Dropbox/ruby-projs/bundler  file:nav.rb line:64
+2014-10-03 17:28:23 - 17:28:23: /home/roroco/Dropbox/ruby-projs/ro_r4py
+2014-10-03 17:31:46 - 17:31:46: set route  RoCells::Preload2::Server::App.route post /ro file:server.rb line:110
+2014-10-03 17:31:46 - 17:31:46: write     /home/roroco/Dropbox/ruby-projs/ro_r4py/rb/Gemfile  file:helper.rb line:605
+2014-10-03 17:31:46 - 17:31:46: run       'cd /home/roroco/Dropbox/ruby-projs/ro_r4py/rb; bundle exec ro gen after_proj_root_is_created' on root@localhost file:basic.rb line:165
+2014-10-03 21:16:46 - 21:16:46: set route  RoCells::Preload2::Server::App.route post /ro file:server.rb line:110
+2014-10-04 10:09:59 - 10:09:59: set route  RoCells::Preload2::Server::App.route post /ro file:server.rb line:110
+2014-10-04 16:15:07 - 16:15:07: /home/roroco/Dropbox/rb-projs/ro_preload2   file:projs.rb line:82
+2014-10-04 16:30:03 - 16:30:03: /home/roroco/Dropbox/py-projs/ro_cmds_light_py   file:projs.rb line:82
+2014-10-04 16:30:35 - 16:30:35: /home/roroco/Dropbox/py-projs/ro_cmds_light_py   file:projs.rb line:82
+2014-10-04 16:30:52 - 16:30:52: /home/roroco/Dropbox/py-projs/ro_cmds_light_py   file:projs.rb line:82
+2014-10-04 16:32:50 - 16:32:50: /home/roroco/Dropbox/py-projs/ro_cmds_light_py   file:projs.rb line:82
+2014-10-04 16:32:56 - 16:32:56: /home/roroco/Dropbox/py-projs/ro_cmds_light_py   file:projs.rb line:82
+2014-10-04 16:36:38 - 16:36:38: /home/roroco/Dropbox/py-projs/ro_cmds_light_py   file:projs.rb line:82
+2014-10-04 16:37:11 - 16:37:11: /home/roroco/Dropbox/py-projs/ro_cmds_light_py   file:projs.rb line:82
+2014-10-04 16:55:21 - 16:55:21: /home/roroco/Dropbox/py-projs/ro_cmds_light_py   file:projs.rb line:82
+2014-10-04 16:58:36 - 16:58:35: /home/roroco/Dropbox/py-projs/ro_cmds_light_py   file:projs.rb line:82
+2014-10-04 20:24:28 - 20:24:28: /home/roroco/Dropbox/rb-projs/try_ro_r4py   file:projs.rb line:82
+2014-10-04 20:44:53 - 20:44:52: /home/roroco/Dropbox/rb-projs/try_ro_r4py   file:projs.rb line:82
+2014-10-05 12:25:48 - 12:25:48: /home/roroco/Dropbox/rb-projs/ro_r4py   file:projs.rb line:82
+2014-10-05 12:25:51 - 12:25:51: /home/roroco/Dropbox/rb-projs/try_ro_deploy   file:projs.rb line:82
+2014-10-05 20:36:32 - 20:36:32: set route  RoCells::Preload2::Server::App.route post /ro file:server.rb line:110
+2014-10-05 20:36:39 - 20:36:39: /home/roroco/Dropbox/py-projs/ro_cmds_light_py   
+2014-10-05 20:36:45 - 20:36:45: /home/roroco/Dropbox/py-projs/ro_cmds_light_py   
+2014-10-05 20:50:10 - 20:50:10: /home/roroco/Dropbox/py-projs/ro_cmds_light_py   
+2014-10-05 20:50:17 - 20:50:17: /home/roroco/Dropbox/py-projs/ro_cmds_light_py   
+2014-10-05 20:50:26 - 20:50:26: /home/roroco/Dropbox/py-projs/ro_cmds_light_py   
+2014-10-05 20:50:32 - 20:50:32: path:/home/roroco/Dropbox/py-projs/ro_py  file:projs.rb line:74
+2014-10-05 20:51:24 - 20:51:24: /home/roroco/Dropbox/py-projs/ro_cmds_light_py   
+2014-10-05 20:51:32 - 20:51:32: /home/roroco/Dropbox/py-projs/ro_cmds_light_py   
+2014-10-05 20:51:50 - 20:51:50: /home/roroco/Dropbox/py-projs/ro_cmds_light_py   
+2014-10-05 20:51:58 - 20:51:58: /home/roroco/Dropbox/py-projs/ro_cmds_light_py    ---- projs.rb:82
+2014-10-05 20:51:58 - 20:51:58: /home/roroco/Dropbox/py-projs/ro_cmds_light_py    ---- projs.rb:82
+2014-10-05 20:51:59 - 20:51:59: /home/roroco/Dropbox/py-projs/ro_cmds_light_py    ---- projs.rb:82
+2014-10-05 21:03:18 - 21:03:18: /home/roroco/Dropbox/rb-projs/try_ro_r4py    ---- projs.rb:82
+2014-10-05 21:47:28 - 21:47:28: /home/roroco/Dropbox/rb-projs/try_ro_r4py    ---- projs.rb:83
+2014-10-06 11:44:03 - 11:44:02: /home/roroco/Dropbox/rb-projs/ro_r4py    ---- projs.rb:83
+2014-10-06 12:35:53 - 12:35:53: write    /home/roroco/Dropbox/rb-projs/ro_r4py/rb/Gemfile  ---- helper.rb:468
+2014-10-07 12:48:01 - 12:48:01: path:/home/roroco/Dropbox/py-projs/kivy  file:projs.rb line:75 ---- projs.rb:75
+2014-10-07 20:23:03 - 20:23:03: write    /home/roroco/Dropbox/rb-projs/ro_r4py/rb/Gemfile  ---- helper.rb:468
+2014-10-07 20:23:03 - 20:23:03: run      'cd /home/roroco/Dropbox/rb-projs/ro_r4py/rb; bundle exec ro gen after_proj_root_is_created' on root@localhost ---- basic.rb:165
+2014-10-07 20:23:20 - 20:23:20: /home/roroco/Dropbox/rb-projs/ro_r4py ---- try.rb:6
+2014-10-07 20:23:28 - 20:23:28: write    /home/roroco/Dropbox/rb-projs/ro_r4py/rb/Gemfile  ---- helper.rb:468
+2014-10-07 20:23:28 - 20:23:28: run      'cd /home/roroco/Dropbox/rb-projs/ro_r4py/rb; bundle exec ro gen after_proj_root_is_created' on root@localhost ---- basic.rb:165
+2014-10-07 20:28:20 - 20:28:20: write    /home/roroco/Dropbox/rb-projs/ro_r4py/rb/Gemfile  ---- helper.rb:468
+2014-10-07 20:28:20 - 20:28:20: run      'cd /home/roroco/Dropbox/rb-projs/ro_r4py/rb; bundle exec ro gen after_proj_root_is_created' on root@localhost ---- basic.rb:165
+2014-10-07 20:30:11 - 20:30:11: write    /home/roroco/Dropbox/rb-projs/ro_r4py/rb/Gemfile  ---- helper.rb:468
+2014-10-07 20:30:11 - 20:30:11: run      'cd /home/roroco/Dropbox/rb-projs/ro_r4py/rb; bundle exec ro gen after_proj_root_is_created' on root@localhost ---- basic.rb:165
+2014-10-07 20:30:32 - 20:30:32: write    /home/roroco/Dropbox/rb-projs/ro_r4py/rb/Gemfile  ---- helper.rb:468
+2014-10-07 20:30:32 - 20:30:32: run      'cd /home/roroco/Dropbox/rb-projs/ro_r4py/rb; bundle exec ro gen after_proj_root_is_created' on root@localhost ---- basic.rb:165
+2014-10-07 20:48:12 - 20:48:12: write    /home/roroco/Dropbox/rb-projs/ro_r4py/rb/Gemfile  ---- helper.rb:468
+2014-10-07 20:48:12 - 20:48:12: run      'cd /home/roroco/Dropbox/rb-projs/ro_r4py/rb; bundle exec ro gen after_proj_root_is_created' on root@localhost ---- basic.rb:165
+2014-10-07 20:49:22 - 20:49:22: write    /home/roroco/Dropbox/rb-projs/ro_r4py/rb/Gemfile  ---- helper.rb:468
+2014-10-07 20:49:22 - 20:49:22: run      'cd /home/roroco/Dropbox/rb-projs/ro_r4py/rb; bundle exec ro gen after_proj_root_is_created' on root@localhost ---- basic.rb:165
+2014-10-07 20:49:41 - 20:49:41: write    /home/roroco/Dropbox/rb-projs/ro_r4py/rb/Gemfile  ---- helper.rb:468
+2014-10-07 20:49:42 - 20:49:41: run      'cd /home/roroco/Dropbox/rb-projs/ro_r4py/rb; bundle exec ro gen after_proj_root_is_created' on root@localhost ---- basic.rb:165
+2014-10-07 20:49:42 - 20:49:42: warning #<RoErrs::Rmt::ExeErr: Bundler is using a binstub that was created for a different gem.
+This is deprecated, in future versions you may need to `bundle binstub ro_commands` to work around a system/bundle conflict.
+>, root is /home/roroco/Dropbox/rb-projs/ro_r4py/rb ---- proj.rb:26
+2014-10-07 20:50:52 - 20:50:52: write    /home/roroco/Dropbox/rb-projs/ro_r4py/rb/Gemfile  ---- helper.rb:468
+2014-10-07 20:50:53 - 20:50:53: run      'cd /home/roroco/Dropbox/rb-projs/ro_r4py/rb; bundle exec ro gen after_proj_root_is_created' on root@localhost ---- basic.rb:165
+2014-10-07 20:50:53 - 20:50:53: warning #<RoErrs::Rmt::ExeErr: Bundler is using a binstub that was created for a different gem.
+This is deprecated, in future versions you may need to `bundle binstub ro_commands` to work around a system/bundle conflict.
+>, root is /home/roroco/Dropbox/rb-projs/ro_r4py/rb ---- proj.rb:26
+2014-10-08 11:03:51 - 11:03:51: path:/home/roroco/Dropbox/py-projs/kivy  file:projs.rb line:75 ---- projs.rb:75
+2014-10-08 11:06:19 - 11:06:19: path:/home/roroco/Dropbox/py-projs/kivy  file:projs.rb line:80 ---- projs.rb:80
+2014-10-08 20:09:15 - 20:09:15: path:/home/roroco/Dropbox/py-projs/kivy  file:projs.rb line:80 ---- projs.rb:80
+2014-10-10 17:01:53 - 17:01:53: set route RoCells::Preload2::Server::App.route post /ro ---- server.rb:110
+2014-10-11 12:35:32 - 12:35:32: path:/home/roroco/Dropbox/py-projs/ro  file:projs.rb line:80 ---- projs.rb:80
+2014-10-11 16:51:27 - 16:51:27: path:/home/roroco/Dropbox/py-projs/ro  file:projs.rb line:80 ---- projs.rb:80
+2014-10-11 21:00:47 - 21:00:47: path:/home/roroco/Dropbox/py-projs/ro  file:projs.rb line:80 ---- projs.rb:80
+2014-10-11 22:00:32 - 22:00:32: path:/home/roroco/Dropbox/py-projs/ro  file:projs.rb line:80 ---- projs.rb:80
+2014-10-12 16:20:03 - 16:20:03: path:/home/roroco/Dropbox/pys/ro  file:projs.rb line:80 ---- projs.rb:80
+2014-10-12 20:28:49 - 20:28:49: path:/home/roroco/Dropbox/pys/ro  file:projs.rb line:80 ---- projs.rb:80
+2014-10-13 10:27:38 - 10:27:38: path:/home/roroco/Dropbox/pys/ro  file:projs.rb line:80 ---- projs.rb:80
+2014-10-13 11:39:39 - 11:39:39: path:/home/roroco/Dropbox/pys/flask  file:projs.rb line:80 ---- projs.rb:80
+2014-10-13 12:45:44 - 12:45:44: path:/home/roroco/Dropbox/pys/ro  file:projs.rb line:80 ---- projs.rb:80
+2014-10-14 12:33:15 - 12:33:15: path:/home/roroco/Dropbox/pys/ro  file:projs.rb line:80 ---- projs.rb:80

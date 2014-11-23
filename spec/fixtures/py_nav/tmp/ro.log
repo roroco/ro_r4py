@@ -1,0 +1,151 @@
+2014-10-03 21:16:04 - 21:16:04: warning   /home/roroco/Dropbox/ruby-projs/ro_r4py/spec/fixtures/py_nav/** is not exist 
+2014-10-03 21:16:04 - 21:16:04: require   /home/roroco/Dropbox/ruby-projs/ro_cmds/lib/ro_helpers/cmds/kls/ins_vars.rb  file:require_autoload_helper.rb line:65 
+2014-10-03 21:16:04 - 21:16:04: require   /home/roroco/Dropbox/ruby-projs/ro_cmds/lib/ro_helpers/cmds/kls/meta.rb  file:require_autoload_helper.rb line:65 
+2014-10-03 21:16:04 - 21:16:04: require   /home/roroco/Dropbox/ruby-projs/ro_cmds/lib/ro_helpers/cmds/kls/misc.rb  file:require_autoload_helper.rb line:65 
+2014-10-03 21:16:04 - 21:16:04: RoHelpers::Cmds::Kls.send(:include, RoHelpers::Cmds::Kls::InsVars)   file:meta.rb line:79
+2014-10-03 21:16:04 - 21:16:04: RoHelpers::Cmds::Kls.send(:include, RoHelpers::Cmds::Kls::Meta)   file:meta.rb line:79
+2014-10-03 21:16:04 - 21:16:04: RoHelpers::Cmds::Kls.send(:include, RoHelpers::Cmds::Kls::Misc)   file:meta.rb line:79
+2014-10-03 21:16:04 - 21:16:04: RoHelpers::Cmds::Kls.send(:include, RoHelpers::Meta::KlsMeths)   file:meta.rb line:79
+2014-10-03 21:16:04 - 21:16:04: require   /home/roroco/Dropbox/ruby-projs/ro_cmds/lib/ro_helpers/cmds/kls.rb  file:require_autoload_helper.rb line:65 
+2014-10-03 21:16:04 - 21:16:04: require   /home/roroco/Dropbox/ruby-projs/ro_cmds/lib/ro_helpers/cmds/helper.rb  file:require_autoload_helper.rb line:65 
+2014-10-03 21:16:04 - 21:16:04: require   /home/roroco/Dropbox/ruby-projs/ro_cmds/lib/ro_helpers/cmds/ins.rb  file:require_autoload_helper.rb line:65 
+2014-10-03 21:16:04 - 21:16:04: /home/roroco/Dropbox/ruby-projs/ro_capybara   file:nav.rb line:85
+2014-10-03 21:27:53 - 21:27:53: warning   /home/roroco/Dropbox/ruby-projs/ro_r4py/spec/fixtures/py_nav/** is not exist 
+2014-10-03 21:27:53 - 21:27:53: require   /home/roroco/Dropbox/ruby-projs/ro_cmds/lib/ro_helpers/cmds/kls/ins_vars.rb  file:require_autoload_helper.rb line:65 
+2014-10-03 21:27:53 - 21:27:53: require   /home/roroco/Dropbox/ruby-projs/ro_cmds/lib/ro_helpers/cmds/kls/meta.rb  file:require_autoload_helper.rb line:65 
+2014-10-03 21:27:53 - 21:27:53: require   /home/roroco/Dropbox/ruby-projs/ro_cmds/lib/ro_helpers/cmds/kls/misc.rb  file:require_autoload_helper.rb line:65 
+2014-10-03 21:27:53 - 21:27:53: RoHelpers::Cmds::Kls.send(:include, RoHelpers::Cmds::Kls::InsVars)   file:meta.rb line:79
+2014-10-03 21:27:53 - 21:27:53: RoHelpers::Cmds::Kls.send(:include, RoHelpers::Cmds::Kls::Meta)   file:meta.rb line:79
+2014-10-03 21:27:53 - 21:27:53: RoHelpers::Cmds::Kls.send(:include, RoHelpers::Cmds::Kls::Misc)   file:meta.rb line:79
+2014-10-03 21:27:53 - 21:27:53: RoHelpers::Cmds::Kls.send(:include, RoHelpers::Meta::KlsMeths)   file:meta.rb line:79
+2014-10-03 21:27:53 - 21:27:53: require   /home/roroco/Dropbox/ruby-projs/ro_cmds/lib/ro_helpers/cmds/kls.rb  file:require_autoload_helper.rb line:65 
+2014-10-03 21:27:53 - 21:27:53: require   /home/roroco/Dropbox/ruby-projs/ro_cmds/lib/ro_helpers/cmds/helper.rb  file:require_autoload_helper.rb line:65 
+2014-10-03 21:27:53 - 21:27:53: require   /home/roroco/Dropbox/ruby-projs/ro_cmds/lib/ro_helpers/cmds/ins.rb  file:require_autoload_helper.rb line:65 
+2014-10-03 21:27:53 - 21:27:53: /home/roroco/Dropbox/ruby-projs/ro_capybara   file:nav.rb line:85
+2014-10-03 21:29:21 - 21:29:21: warning   /home/roroco/Dropbox/ruby-projs/ro_r4py/spec/fixtures/py_nav/** is not exist 
+2014-10-03 21:29:21 - 21:29:21: require   /home/roroco/Dropbox/ruby-projs/ro_cmds/lib/ro_helpers/cmds/kls/ins_vars.rb  file:require_autoload_helper.rb line:65 
+2014-10-03 21:29:21 - 21:29:21: require   /home/roroco/Dropbox/ruby-projs/ro_cmds/lib/ro_helpers/cmds/kls/meta.rb  file:require_autoload_helper.rb line:65 
+2014-10-03 21:29:21 - 21:29:21: require   /home/roroco/Dropbox/ruby-projs/ro_cmds/lib/ro_helpers/cmds/kls/misc.rb  file:require_autoload_helper.rb line:65 
+2014-10-03 21:29:21 - 21:29:21: RoHelpers::Cmds::Kls.send(:include, RoHelpers::Cmds::Kls::InsVars)   file:meta.rb line:79
+2014-10-03 21:29:21 - 21:29:21: RoHelpers::Cmds::Kls.send(:include, RoHelpers::Cmds::Kls::Meta)   file:meta.rb line:79
+2014-10-03 21:29:21 - 21:29:21: RoHelpers::Cmds::Kls.send(:include, RoHelpers::Cmds::Kls::Misc)   file:meta.rb line:79
+2014-10-03 21:29:21 - 21:29:21: RoHelpers::Cmds::Kls.send(:include, RoHelpers::Meta::KlsMeths)   file:meta.rb line:79
+2014-10-03 21:29:21 - 21:29:21: require   /home/roroco/Dropbox/ruby-projs/ro_cmds/lib/ro_helpers/cmds/kls.rb  file:require_autoload_helper.rb line:65 
+2014-10-03 21:29:21 - 21:29:21: require   /home/roroco/Dropbox/ruby-projs/ro_cmds/lib/ro_helpers/cmds/helper.rb  file:require_autoload_helper.rb line:65 
+2014-10-03 21:29:21 - 21:29:21: require   /home/roroco/Dropbox/ruby-projs/ro_cmds/lib/ro_helpers/cmds/ins.rb  file:require_autoload_helper.rb line:65 
+2014-10-03 21:29:21 - 21:29:21: /home/roroco/Dropbox/ruby-projs/ro_capybara   file:nav.rb line:85
+2014-10-03 21:30:10 - 21:30:10: warning   /home/roroco/Dropbox/ruby-projs/ro_r4py/spec/fixtures/py_nav/** is not exist 
+2014-10-03 21:30:10 - 21:30:10: require   /home/roroco/Dropbox/ruby-projs/ro_cmds/lib/ro_helpers/cmds/kls/ins_vars.rb  file:require_autoload_helper.rb line:65 
+2014-10-03 21:30:10 - 21:30:10: require   /home/roroco/Dropbox/ruby-projs/ro_cmds/lib/ro_helpers/cmds/kls/meta.rb  file:require_autoload_helper.rb line:65 
+2014-10-03 21:30:10 - 21:30:10: require   /home/roroco/Dropbox/ruby-projs/ro_cmds/lib/ro_helpers/cmds/kls/misc.rb  file:require_autoload_helper.rb line:65 
+2014-10-03 21:30:10 - 21:30:10: RoHelpers::Cmds::Kls.send(:include, RoHelpers::Cmds::Kls::InsVars)   file:meta.rb line:79
+2014-10-03 21:30:10 - 21:30:10: RoHelpers::Cmds::Kls.send(:include, RoHelpers::Cmds::Kls::Meta)   file:meta.rb line:79
+2014-10-03 21:30:10 - 21:30:10: RoHelpers::Cmds::Kls.send(:include, RoHelpers::Cmds::Kls::Misc)   file:meta.rb line:79
+2014-10-03 21:30:10 - 21:30:10: RoHelpers::Cmds::Kls.send(:include, RoHelpers::Meta::KlsMeths)   file:meta.rb line:79
+2014-10-03 21:30:10 - 21:30:10: require   /home/roroco/Dropbox/ruby-projs/ro_cmds/lib/ro_helpers/cmds/kls.rb  file:require_autoload_helper.rb line:65 
+2014-10-03 21:30:10 - 21:30:10: require   /home/roroco/Dropbox/ruby-projs/ro_cmds/lib/ro_helpers/cmds/helper.rb  file:require_autoload_helper.rb line:65 
+2014-10-03 21:30:10 - 21:30:10: require   /home/roroco/Dropbox/ruby-projs/ro_cmds/lib/ro_helpers/cmds/ins.rb  file:require_autoload_helper.rb line:65 
+2014-10-03 21:31:35 - 21:31:35: warning   /home/roroco/Dropbox/ruby-projs/ro_r4py/spec/fixtures/py_nav/** is not exist 
+2014-10-03 21:31:35 - 21:31:35: require   /home/roroco/Dropbox/ruby-projs/ro_cmds/lib/ro_helpers/cmds/kls/ins_vars.rb  file:require_autoload_helper.rb line:65 
+2014-10-03 21:31:35 - 21:31:35: require   /home/roroco/Dropbox/ruby-projs/ro_cmds/lib/ro_helpers/cmds/kls/meta.rb  file:require_autoload_helper.rb line:65 
+2014-10-03 21:31:35 - 21:31:35: require   /home/roroco/Dropbox/ruby-projs/ro_cmds/lib/ro_helpers/cmds/kls/misc.rb  file:require_autoload_helper.rb line:65 
+2014-10-03 21:31:35 - 21:31:35: RoHelpers::Cmds::Kls.send(:include, RoHelpers::Cmds::Kls::InsVars)   file:meta.rb line:79
+2014-10-03 21:31:35 - 21:31:35: RoHelpers::Cmds::Kls.send(:include, RoHelpers::Cmds::Kls::Meta)   file:meta.rb line:79
+2014-10-03 21:31:35 - 21:31:35: RoHelpers::Cmds::Kls.send(:include, RoHelpers::Cmds::Kls::Misc)   file:meta.rb line:79
+2014-10-03 21:31:35 - 21:31:35: RoHelpers::Cmds::Kls.send(:include, RoHelpers::Meta::KlsMeths)   file:meta.rb line:79
+2014-10-03 21:31:35 - 21:31:35: require   /home/roroco/Dropbox/ruby-projs/ro_cmds/lib/ro_helpers/cmds/kls.rb  file:require_autoload_helper.rb line:65 
+2014-10-03 21:31:35 - 21:31:35: require   /home/roroco/Dropbox/ruby-projs/ro_cmds/lib/ro_helpers/cmds/helper.rb  file:require_autoload_helper.rb line:65 
+2014-10-03 21:31:35 - 21:31:35: require   /home/roroco/Dropbox/ruby-projs/ro_cmds/lib/ro_helpers/cmds/ins.rb  file:require_autoload_helper.rb line:65 
+2014-10-03 21:32:11 - 21:32:11: warning   /home/roroco/Dropbox/ruby-projs/ro_r4py/spec/fixtures/py_nav/** is not exist 
+2014-10-03 21:32:11 - 21:32:11: require   /home/roroco/Dropbox/ruby-projs/ro_cmds/lib/ro_helpers/cmds/kls/ins_vars.rb  file:require_autoload_helper.rb line:65 
+2014-10-03 21:32:11 - 21:32:11: require   /home/roroco/Dropbox/ruby-projs/ro_cmds/lib/ro_helpers/cmds/kls/meta.rb  file:require_autoload_helper.rb line:65 
+2014-10-03 21:32:11 - 21:32:11: require   /home/roroco/Dropbox/ruby-projs/ro_cmds/lib/ro_helpers/cmds/kls/misc.rb  file:require_autoload_helper.rb line:65 
+2014-10-03 21:32:11 - 21:32:11: RoHelpers::Cmds::Kls.send(:include, RoHelpers::Cmds::Kls::InsVars)   file:meta.rb line:79
+2014-10-03 21:32:11 - 21:32:11: RoHelpers::Cmds::Kls.send(:include, RoHelpers::Cmds::Kls::Meta)   file:meta.rb line:79
+2014-10-03 21:32:11 - 21:32:11: RoHelpers::Cmds::Kls.send(:include, RoHelpers::Cmds::Kls::Misc)   file:meta.rb line:79
+2014-10-03 21:32:11 - 21:32:11: RoHelpers::Cmds::Kls.send(:include, RoHelpers::Meta::KlsMeths)   file:meta.rb line:79
+2014-10-03 21:32:12 - 21:32:12: require   /home/roroco/Dropbox/ruby-projs/ro_cmds/lib/ro_helpers/cmds/kls.rb  file:require_autoload_helper.rb line:65 
+2014-10-03 21:32:12 - 21:32:12: require   /home/roroco/Dropbox/ruby-projs/ro_cmds/lib/ro_helpers/cmds/helper.rb  file:require_autoload_helper.rb line:65 
+2014-10-03 21:32:12 - 21:32:12: require   /home/roroco/Dropbox/ruby-projs/ro_cmds/lib/ro_helpers/cmds/ins.rb  file:require_autoload_helper.rb line:65 
+2014-10-03 21:32:25 - 21:32:25: warning   /home/roroco/Dropbox/ruby-projs/ro_r4py/spec/fixtures/py_nav/** is not exist 
+2014-10-03 21:32:25 - 21:32:25: require   /home/roroco/Dropbox/ruby-projs/ro_cmds/lib/ro_helpers/cmds/kls/ins_vars.rb  file:require_autoload_helper.rb line:65 
+2014-10-03 21:32:25 - 21:32:25: require   /home/roroco/Dropbox/ruby-projs/ro_cmds/lib/ro_helpers/cmds/kls/meta.rb  file:require_autoload_helper.rb line:65 
+2014-10-03 21:32:25 - 21:32:25: require   /home/roroco/Dropbox/ruby-projs/ro_cmds/lib/ro_helpers/cmds/kls/misc.rb  file:require_autoload_helper.rb line:65 
+2014-10-03 21:32:25 - 21:32:25: RoHelpers::Cmds::Kls.send(:include, RoHelpers::Cmds::Kls::InsVars)   file:meta.rb line:79
+2014-10-03 21:32:25 - 21:32:25: RoHelpers::Cmds::Kls.send(:include, RoHelpers::Cmds::Kls::Meta)   file:meta.rb line:79
+2014-10-03 21:32:25 - 21:32:25: RoHelpers::Cmds::Kls.send(:include, RoHelpers::Cmds::Kls::Misc)   file:meta.rb line:79
+2014-10-03 21:32:25 - 21:32:25: RoHelpers::Cmds::Kls.send(:include, RoHelpers::Meta::KlsMeths)   file:meta.rb line:79
+2014-10-03 21:32:25 - 21:32:25: require   /home/roroco/Dropbox/ruby-projs/ro_cmds/lib/ro_helpers/cmds/kls.rb  file:require_autoload_helper.rb line:65 
+2014-10-03 21:32:25 - 21:32:25: require   /home/roroco/Dropbox/ruby-projs/ro_cmds/lib/ro_helpers/cmds/helper.rb  file:require_autoload_helper.rb line:65 
+2014-10-03 21:32:25 - 21:32:25: require   /home/roroco/Dropbox/ruby-projs/ro_cmds/lib/ro_helpers/cmds/ins.rb  file:require_autoload_helper.rb line:65 
+2014-10-03 21:32:38 - 21:32:38: warning   /home/roroco/Dropbox/ruby-projs/ro_r4py/spec/fixtures/py_nav/** is not exist 
+2014-10-03 21:32:38 - 21:32:38: require   /home/roroco/Dropbox/ruby-projs/ro_cmds/lib/ro_helpers/cmds/kls/ins_vars.rb  file:require_autoload_helper.rb line:65 
+2014-10-03 21:32:38 - 21:32:38: require   /home/roroco/Dropbox/ruby-projs/ro_cmds/lib/ro_helpers/cmds/kls/meta.rb  file:require_autoload_helper.rb line:65 
+2014-10-03 21:32:38 - 21:32:38: require   /home/roroco/Dropbox/ruby-projs/ro_cmds/lib/ro_helpers/cmds/kls/misc.rb  file:require_autoload_helper.rb line:65 
+2014-10-03 21:32:38 - 21:32:38: RoHelpers::Cmds::Kls.send(:include, RoHelpers::Cmds::Kls::InsVars)   file:meta.rb line:79
+2014-10-03 21:32:38 - 21:32:38: RoHelpers::Cmds::Kls.send(:include, RoHelpers::Cmds::Kls::Meta)   file:meta.rb line:79
+2014-10-03 21:32:38 - 21:32:38: RoHelpers::Cmds::Kls.send(:include, RoHelpers::Cmds::Kls::Misc)   file:meta.rb line:79
+2014-10-03 21:32:38 - 21:32:38: RoHelpers::Cmds::Kls.send(:include, RoHelpers::Meta::KlsMeths)   file:meta.rb line:79
+2014-10-03 21:32:38 - 21:32:38: require   /home/roroco/Dropbox/ruby-projs/ro_cmds/lib/ro_helpers/cmds/kls.rb  file:require_autoload_helper.rb line:65 
+2014-10-03 21:32:38 - 21:32:38: require   /home/roroco/Dropbox/ruby-projs/ro_cmds/lib/ro_helpers/cmds/helper.rb  file:require_autoload_helper.rb line:65 
+2014-10-03 21:32:38 - 21:32:38: require   /home/roroco/Dropbox/ruby-projs/ro_cmds/lib/ro_helpers/cmds/ins.rb  file:require_autoload_helper.rb line:65 
+2014-10-03 21:33:18 - 21:33:18: warning   /home/roroco/Dropbox/ruby-projs/ro_r4py/spec/fixtures/py_nav/** is not exist 
+2014-10-03 21:33:19 - 21:33:18: require   /home/roroco/Dropbox/ruby-projs/ro_cmds/lib/ro_helpers/cmds/kls/ins_vars.rb  file:require_autoload_helper.rb line:65 
+2014-10-03 21:33:19 - 21:33:19: require   /home/roroco/Dropbox/ruby-projs/ro_cmds/lib/ro_helpers/cmds/kls/meta.rb  file:require_autoload_helper.rb line:65 
+2014-10-03 21:33:19 - 21:33:19: require   /home/roroco/Dropbox/ruby-projs/ro_cmds/lib/ro_helpers/cmds/kls/misc.rb  file:require_autoload_helper.rb line:65 
+2014-10-03 21:33:19 - 21:33:19: RoHelpers::Cmds::Kls.send(:include, RoHelpers::Cmds::Kls::InsVars)   file:meta.rb line:79
+2014-10-03 21:33:19 - 21:33:19: RoHelpers::Cmds::Kls.send(:include, RoHelpers::Cmds::Kls::Meta)   file:meta.rb line:79
+2014-10-03 21:33:19 - 21:33:19: RoHelpers::Cmds::Kls.send(:include, RoHelpers::Cmds::Kls::Misc)   file:meta.rb line:79
+2014-10-03 21:33:19 - 21:33:19: RoHelpers::Cmds::Kls.send(:include, RoHelpers::Meta::KlsMeths)   file:meta.rb line:79
+2014-10-03 21:33:19 - 21:33:19: require   /home/roroco/Dropbox/ruby-projs/ro_cmds/lib/ro_helpers/cmds/kls.rb  file:require_autoload_helper.rb line:65 
+2014-10-03 21:33:19 - 21:33:19: require   /home/roroco/Dropbox/ruby-projs/ro_cmds/lib/ro_helpers/cmds/helper.rb  file:require_autoload_helper.rb line:65 
+2014-10-03 21:33:19 - 21:33:19: require   /home/roroco/Dropbox/ruby-projs/ro_cmds/lib/ro_helpers/cmds/ins.rb  file:require_autoload_helper.rb line:65 
+2014-10-03 21:33:23 - 21:33:23: /home/roroco/Dropbox/py-projs/ro_cmds_light_py   file:nav.rb line:81
+2014-10-04 09:23:02 - 09:23:02: warning   /home/roroco/Dropbox/rb-projs/ro_r4py/spec/fixtures/py_nav/** is not exist 
+2014-10-04 09:23:02 - 09:23:02: require   /home/roroco/Dropbox/rb-projs/ro_cmds/lib/ro_helpers/cmds/kls/ins_vars.rb  file:require_autoload.rb line:66 
+2014-10-04 09:23:02 - 09:23:02: require   /home/roroco/Dropbox/rb-projs/ro_cmds/lib/ro_helpers/cmds/kls/meta.rb  file:require_autoload.rb line:66 
+2014-10-04 09:23:02 - 09:23:02: require   /home/roroco/Dropbox/rb-projs/ro_cmds/lib/ro_helpers/cmds/kls/misc.rb  file:require_autoload.rb line:66 
+2014-10-04 09:23:02 - 09:23:02: RoHelpers::Cmds::Kls.send(:include, RoHelpers::Cmds::Kls::InsVars)   file:meta.rb line:79
+2014-10-04 09:23:02 - 09:23:02: RoHelpers::Cmds::Kls.send(:include, RoHelpers::Cmds::Kls::Meta)   file:meta.rb line:79
+2014-10-04 09:23:02 - 09:23:02: RoHelpers::Cmds::Kls.send(:include, RoHelpers::Cmds::Kls::Misc)   file:meta.rb line:79
+2014-10-04 09:23:02 - 09:23:02: RoHelpers::Cmds::Kls.send(:include, RoHelpers::Meta::KlsMeths)   file:meta.rb line:79
+2014-10-04 09:23:02 - 09:23:02: require   /home/roroco/Dropbox/rb-projs/ro_cmds/lib/ro_helpers/cmds/kls.rb  file:require_autoload.rb line:66 
+2014-10-04 09:23:02 - 09:23:02: require   /home/roroco/Dropbox/rb-projs/ro_cmds/lib/ro_helpers/cmds/helper.rb  file:require_autoload.rb line:66 
+2014-10-04 09:23:02 - 09:23:02: require   /home/roroco/Dropbox/rb-projs/ro_cmds/lib/ro_helpers/cmds/ins.rb  file:require_autoload.rb line:66 
+2014-10-04 09:23:05 - 09:23:05: /home/roroco/Dropbox/rb-projs/ro_capybara   file:projs.rb line:82
+2014-10-04 09:24:18 - 09:24:18: warning   /home/roroco/Dropbox/rb-projs/ro_r4py/spec/fixtures/py_nav/** is not exist 
+2014-10-04 09:24:18 - 09:24:18: require   /home/roroco/Dropbox/rb-projs/ro_cmds/lib/ro_helpers/cmds/kls/ins_vars.rb  file:require_autoload.rb line:66 
+2014-10-04 09:24:18 - 09:24:18: require   /home/roroco/Dropbox/rb-projs/ro_cmds/lib/ro_helpers/cmds/kls/meta.rb  file:require_autoload.rb line:66 
+2014-10-04 09:24:18 - 09:24:18: require   /home/roroco/Dropbox/rb-projs/ro_cmds/lib/ro_helpers/cmds/kls/misc.rb  file:require_autoload.rb line:66 
+2014-10-04 09:24:18 - 09:24:18: RoHelpers::Cmds::Kls.send(:include, RoHelpers::Cmds::Kls::InsVars)   file:meta.rb line:79
+2014-10-04 09:24:18 - 09:24:18: RoHelpers::Cmds::Kls.send(:include, RoHelpers::Cmds::Kls::Meta)   file:meta.rb line:79
+2014-10-04 09:24:18 - 09:24:18: RoHelpers::Cmds::Kls.send(:include, RoHelpers::Cmds::Kls::Misc)   file:meta.rb line:79
+2014-10-04 09:24:18 - 09:24:18: RoHelpers::Cmds::Kls.send(:include, RoHelpers::Meta::KlsMeths)   file:meta.rb line:79
+2014-10-04 09:24:18 - 09:24:18: require   /home/roroco/Dropbox/rb-projs/ro_cmds/lib/ro_helpers/cmds/kls.rb  file:require_autoload.rb line:66 
+2014-10-04 09:24:18 - 09:24:18: require   /home/roroco/Dropbox/rb-projs/ro_cmds/lib/ro_helpers/cmds/helper.rb  file:require_autoload.rb line:66 
+2014-10-04 09:24:18 - 09:24:18: require   /home/roroco/Dropbox/rb-projs/ro_cmds/lib/ro_helpers/cmds/ins.rb  file:require_autoload.rb line:66 
+2014-10-04 09:24:18 - 09:24:18: /home/roroco/Dropbox/rb-projs/ro_capybara   file:projs.rb line:82
+2014-10-04 09:26:09 - 09:26:09: warning   /home/roroco/Dropbox/rb-projs/ro_r4py/spec/fixtures/py_nav/** is not exist 
+2014-10-04 09:26:09 - 09:26:09: require   /home/roroco/Dropbox/rb-projs/ro_cmds/lib/ro_helpers/cmds/kls/ins_vars.rb  file:require_autoload.rb line:66 
+2014-10-04 09:26:09 - 09:26:09: require   /home/roroco/Dropbox/rb-projs/ro_cmds/lib/ro_helpers/cmds/kls/meta.rb  file:require_autoload.rb line:66 
+2014-10-04 09:26:09 - 09:26:09: require   /home/roroco/Dropbox/rb-projs/ro_cmds/lib/ro_helpers/cmds/kls/misc.rb  file:require_autoload.rb line:66 
+2014-10-04 09:26:09 - 09:26:09: RoHelpers::Cmds::Kls.send(:include, RoHelpers::Cmds::Kls::InsVars)   file:meta.rb line:79
+2014-10-04 09:26:09 - 09:26:09: RoHelpers::Cmds::Kls.send(:include, RoHelpers::Cmds::Kls::Meta)   file:meta.rb line:79
+2014-10-04 09:26:09 - 09:26:09: RoHelpers::Cmds::Kls.send(:include, RoHelpers::Cmds::Kls::Misc)   file:meta.rb line:79
+2014-10-04 09:26:09 - 09:26:09: RoHelpers::Cmds::Kls.send(:include, RoHelpers::Meta::KlsMeths)   file:meta.rb line:79
+2014-10-04 09:26:09 - 09:26:09: require   /home/roroco/Dropbox/rb-projs/ro_cmds/lib/ro_helpers/cmds/kls.rb  file:require_autoload.rb line:66 
+2014-10-04 09:26:09 - 09:26:09: require   /home/roroco/Dropbox/rb-projs/ro_cmds/lib/ro_helpers/cmds/helper.rb  file:require_autoload.rb line:66 
+2014-10-04 09:26:09 - 09:26:09: require   /home/roroco/Dropbox/rb-projs/ro_cmds/lib/ro_helpers/cmds/ins.rb  file:require_autoload.rb line:66 
+2014-10-04 09:26:09 - 09:26:09: /home/roroco/Dropbox/rb-projs/ro_algo   file:projs.rb line:82
+2014-10-04 09:26:30 - 09:26:30: warning   /home/roroco/Dropbox/rb-projs/ro_r4py/spec/fixtures/py_nav/** is not exist 
+2014-10-04 09:26:30 - 09:26:30: require   /home/roroco/Dropbox/rb-projs/ro_cmds/lib/ro_helpers/cmds/kls/ins_vars.rb  file:require_autoload.rb line:66 
+2014-10-04 09:26:30 - 09:26:30: require   /home/roroco/Dropbox/rb-projs/ro_cmds/lib/ro_helpers/cmds/kls/meta.rb  file:require_autoload.rb line:66 
+2014-10-04 09:26:30 - 09:26:30: require   /home/roroco/Dropbox/rb-projs/ro_cmds/lib/ro_helpers/cmds/kls/misc.rb  file:require_autoload.rb line:66 
+2014-10-04 09:26:30 - 09:26:30: RoHelpers::Cmds::Kls.send(:include, RoHelpers::Cmds::Kls::InsVars)   file:meta.rb line:79
+2014-10-04 09:26:30 - 09:26:30: RoHelpers::Cmds::Kls.send(:include, RoHelpers::Cmds::Kls::Meta)   file:meta.rb line:79
+2014-10-04 09:26:30 - 09:26:30: RoHelpers::Cmds::Kls.send(:include, RoHelpers::Cmds::Kls::Misc)   file:meta.rb line:79
+2014-10-04 09:26:30 - 09:26:30: RoHelpers::Cmds::Kls.send(:include, RoHelpers::Meta::KlsMeths)   file:meta.rb line:79
+2014-10-04 09:26:30 - 09:26:30: require   /home/roroco/Dropbox/rb-projs/ro_cmds/lib/ro_helpers/cmds/kls.rb  file:require_autoload.rb line:66 
+2014-10-04 09:26:30 - 09:26:30: require   /home/roroco/Dropbox/rb-projs/ro_cmds/lib/ro_helpers/cmds/helper.rb  file:require_autoload.rb line:66 
+2014-10-04 09:26:30 - 09:26:30: require   /home/roroco/Dropbox/rb-projs/ro_cmds/lib/ro_helpers/cmds/ins.rb  file:require_autoload.rb line:66 
+2014-10-04 09:26:30 - 09:26:30: /home/roroco/Dropbox/py-projs/ro_cmds_light_py   file:projs.rb line:82

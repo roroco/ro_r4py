@@ -1,0 +1,59 @@
+2014-10-04 10:29:31 - 10:29:31: warning   /home/roroco/Dropbox/rb-projs/ro_r4py/spec/fixtures/client/** is not exist 
+2014-10-04 16:10:05 - 16:10:05: warning   /home/roroco/Dropbox/rb-projs/ro_r4py/spec/fixtures/client/** is not exist 
+2014-10-04 16:10:05 - 16:10:05: try/retry  for 5s until 23333 is listened
+2014-10-04 16:10:05 - 16:10:05: 23333 is listened
+2014-10-04 16:10:24 - 16:10:24: warning   /home/roroco/Dropbox/rb-projs/ro_r4py/spec/fixtures/client/** is not exist 
+2014-10-04 16:10:24 - 16:10:24: running   'lsof -t -i:23333' in /home/roroco/Dropbox/rb-projs/ro_cmds/lib/bash/process.rb:298 file:bash.rb line:121
+2014-10-04 16:10:24 - 16:10:24: 
+13688
+22237
+2014-10-04 16:10:24 - 16:10:24: run #<RoCells::Caller::ParseResult:0x007f13bee22010>   file:process.rb line:347
+2014-10-04 16:10:25 - 16:10:25: roroco   13688     1  0 09:24 ?        00:00:15 ruby /home/roroco/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/bin/ro preload_server restart   file:process.rb line:402
+2014-10-04 16:10:25 - 16:10:25: kill 13688   file:process.rb line:403
+2014-10-04 16:10:25 - 16:10:25: 
+
+process exit
+exit status: 
+process info:
+
+file:process.rb line:41"
+2014-10-04 16:10:25 - 16:10:25: run #<RoCells::Caller::ParseResult:0x007f13bf8ee188>   file:process.rb line:347
+2014-10-04 16:10:25 - 16:10:25: warning   can't kill cur pid   
+2014-10-04 16:10:25 - 16:10:25: try/retry  for 5s until 23333 is listened
+2014-10-04 16:10:25 - 16:10:25: 23333 is listened
+2014-10-04 16:12:11 - 16:12:11: warning   /home/roroco/Dropbox/rb-projs/ro_r4py/spec/fixtures/client/** is not exist 
+2014-10-04 16:12:11 - 16:12:11: try/retry  for 5s until 23333 is listened
+2014-10-04 16:12:11 - 16:12:11: 23333 is listened
+2014-10-04 16:12:11 - 16:12:11: require   /home/roroco/Dropbox/rb-projs/ro_cmds/lib/ro_helpers/cmds/kls/ins_vars.rb  file:require_autoload.rb line:66 
+2014-10-04 16:12:11 - 16:12:11: require   /home/roroco/Dropbox/rb-projs/ro_cmds/lib/ro_helpers/cmds/kls/meta.rb  file:require_autoload.rb line:66 
+2014-10-04 16:12:11 - 16:12:11: require   /home/roroco/Dropbox/rb-projs/ro_cmds/lib/ro_helpers/cmds/kls/misc.rb  file:require_autoload.rb line:66 
+2014-10-04 16:12:11 - 16:12:11: RoHelpers::Cmds::Kls.send(:include, RoHelpers::Cmds::Kls::InsVars)   file:meta.rb line:79
+2014-10-04 16:12:11 - 16:12:11: RoHelpers::Cmds::Kls.send(:include, RoHelpers::Cmds::Kls::Meta)   file:meta.rb line:79
+2014-10-04 16:12:11 - 16:12:11: RoHelpers::Cmds::Kls.send(:include, RoHelpers::Cmds::Kls::Misc)   file:meta.rb line:79
+2014-10-04 16:12:11 - 16:12:11: RoHelpers::Cmds::Kls.send(:include, RoHelpers::Meta::KlsMeths)   file:meta.rb line:79
+2014-10-04 16:12:11 - 16:12:11: require   /home/roroco/Dropbox/rb-projs/ro_cmds/lib/ro_helpers/cmds/kls.rb  file:require_autoload.rb line:66 
+2014-10-04 16:12:12 - 16:12:11: require   /home/roroco/Dropbox/rb-projs/ro_cmds/lib/ro_helpers/cmds/helper.rb  file:require_autoload.rb line:66 
+2014-10-04 16:12:12 - 16:12:12: require   /home/roroco/Dropbox/rb-projs/ro_cmds/lib/ro_helpers/cmds/ins.rb  file:require_autoload.rb line:66 
+2014-10-04 16:12:12 - 16:12:12: /home/roroco/Dropbox/py-projs/ro_cmds_light_py   file:projs.rb line:82
+2014-10-05 10:35:32 - 10:35:32: warning   /home/roroco/Dropbox/rb-projs/ro_r4py/spec/fixtures/client/** is not exist 
+2014-10-05 10:35:32 - 10:35:32: try/retry  for 5s until 23333 is listened
+2014-10-05 10:35:32 - 10:35:32: 23333 is listened
+2014-10-05 10:36:32 - 10:36:32: warning   /home/roroco/Dropbox/rb-projs/ro_r4py/spec/fixtures/client/** is not exist 
+2014-10-05 10:36:32 - 10:36:32: try/retry  for 5s until 23333 is listened
+2014-10-05 10:36:32 - 10:36:32: 23333 is listened
+2014-10-05 10:37:38 - 10:37:38: warning   /home/roroco/Dropbox/rb-projs/ro_r4py/spec/fixtures/client/** is not exist 
+2014-10-05 10:37:38 - 10:37:38: try/retry  for 5s until 23333 is listened
+2014-10-05 10:37:38 - 10:37:38: 23333 is listened
+2014-10-05 10:37:38 - 10:37:38: /home/roroco/Dropbox/py-projs/ro_cmds_light_py   file:projs.rb line:82
+2014-10-05 10:38:02 - 10:38:02: warning   /home/roroco/Dropbox/rb-projs/ro_r4py/spec/fixtures/client/** is not exist 
+2014-10-05 10:38:02 - 10:38:02: try/retry  for 5s until 23333 is listened
+2014-10-05 10:38:02 - 10:38:02: 23333 is listened
+2014-10-05 10:38:02 - 10:38:02: /home/roroco/Dropbox/py-projs/ro_cmds_light_py   file:projs.rb line:82
+2014-10-05 10:38:23 - 10:38:23: warning   /home/roroco/Dropbox/rb-projs/ro_r4py/spec/fixtures/client/** is not exist 
+2014-10-05 10:38:23 - 10:38:23: try/retry  for 5s until 23333 is listened
+2014-10-05 10:38:24 - 10:38:24: 23333 is listened
+2014-10-05 10:38:24 - 10:38:24: /home/roroco/Dropbox/py-projs/ro_cmds_light_py   file:projs.rb line:82
+2014-10-05 10:39:17 - 10:39:17: warning   /home/roroco/Dropbox/rb-projs/ro_r4py/spec/fixtures/client/** is not exist 
+2014-10-05 10:39:17 - 10:39:17: try/retry  for 5s until 23333 is listened
+2014-10-05 10:39:17 - 10:39:17: 23333 is listened
+2014-10-05 10:39:17 - 10:39:17: /home/roroco/Dropbox/py-projs/ro_cmds_light_py   file:projs.rb line:82

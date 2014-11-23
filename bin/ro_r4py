@@ -1,0 +1,12 @@
+#!/usr/bin/env ruby
+
+def root(*args, &blk)
+  File.join File.expand_path("../..", __FILE__), *args, &blk
+end
+
+ENV['BUNDLE_GEMFILE'] = root("Gemfile")
+require 'bundler/setup'
+
+load File.expand_path("../../lib/ro_cell/py/runner.rb", __FILE__)
+
+::RoCell::Py::Runner.new.start
