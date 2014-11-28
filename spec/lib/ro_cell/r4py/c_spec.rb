@@ -14,7 +14,7 @@ describe "RoCell::R4py::C.new" do
 
   before do
     cdfix "c"
-    sv.restart
+    sv.rst
   end
 
   describe :ivk do

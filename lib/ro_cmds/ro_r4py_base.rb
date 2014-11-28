@@ -14,7 +14,7 @@ module ::RoCmds
 			if to.nil?
 				return result
 			else
-				if options[:force]
+				if opts[:force]
 					::RoFile.write(to, result)
 				else
 					unless File.exist?(to)

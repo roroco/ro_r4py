@@ -15,12 +15,10 @@ module RoCell
         "#{py_pj_name}.test_helper"
       end
 
-      attr_writer :init
-
-      def init
+      def ii
         ctn = RoFile.read match_file
         if py_kls?
-          init_ins
+          ii_ins
         else
           full_mod
         end
@@ -32,10 +30,8 @@ module RoCell
       end
 
 
-      attr_writer :match_file
-
       def match_file
-        @match_file ||= nil
+  @match_file ||= nil
       end
 
       def kls
@@ -56,7 +52,7 @@ module RoCell
         mod.camelize
       end
 
-      def init_ins(*args, &blk)
+      def ii_ins(*args, &blk)
         "#{kls}()"
       end
     end

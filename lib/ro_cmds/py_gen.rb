@@ -22,8 +22,8 @@ module RoCmds
     end
 
     def rb(*args, &blk)
-      old_wd = ro_path RoR4py.cur_root
-      ::RoCell::Py::Rb.new.start('rb')
+      old_wd = ro_path RoR4py.cur_rt
+      ::RoCell::Py::Rb.new.st('rb')
     end
 
     usg :setup

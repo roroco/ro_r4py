@@ -2,10 +2,8 @@ require 'ro_file'
 module ::RoHelper
   module Py
     module Helper
-      attr_writer :py_pj
-
-      def py_pj(*args, &blk)
-        @py_pj ||= RoR4py.cur_parent
+      def py_pj
+  @py_pj ||= RoR4py.cur_parent
         RoFile.join @py_pj, *args, &blk
       end
 

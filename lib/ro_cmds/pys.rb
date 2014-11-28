@@ -11,7 +11,7 @@ module ::RoCmds
     def aliases(*args, &blk)
       {
           rol: 'ro_cmds_light',
-          rp: 'ro_plans'
+          rp: 'ro_plan'
       }
     end
   end

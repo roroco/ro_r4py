@@ -12,11 +12,9 @@ module RoCmds
       format_py(*args, &blk)
     end
 
-    attr_writer :test_file
-
     def test_file
-      @test_file ||= lambda do
-        @parent_basename_sc, @basename_sc = parent_basename_and_basename(path_sc)
+  @test_file ||= lambda do
+        @parent_basename_sc, @basename_sc = parent_basename_and_basename(path_scs)
 
         r = match_file.gsub(py_pj, "").prefix(py_pj("tests")).gsub(%r{\/([^\/]+)$}) do
           "/test_#{$~[1]}"
@@ -29,10 +27,8 @@ module RoCmds
       "pass"
     end
 
-    attr_writer :test_file_attrs
-
     def test_file_attrs
-      @test_file_attrs ||= ::RoCell::Py::TestFileAttrs.new(match_file: match_file)
+  @test_file_attrs ||= ::RoCell::Py::TestFileAttrs.new(match_file: match_file)
     end
 
     def test_tt_path(*args, &blk)
@@ -55,20 +51,12 @@ module RoCmds
         end
       end
 
-      raise ::RoErr::NotFound, "not find match file with path_sc: #{path_sc} in #{py_pj}"
+      raise ::RoErr::NotFound, "not find match file with path_sc: #{path_scs} in #{py_pj}"
     end
 
-    attr_writer :parent_basename_sc
+attr_accessor :parent_basename_sc
 
-    def parent_basename_sc
-      @parent_basename_sc ||= nil
-    end
-
-    attr_writer :basename_sc
-
-    def basename_sc
-      @basename_sc ||= nil
-    end
+attr_accessor :basename_sc
 
   end
 end
