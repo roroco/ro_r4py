@@ -2,11 +2,11 @@ ENV['BUNDLE_GEMFILE'] = File.expand_path("../../../../Gemfile", __FILE__)
 require 'bundler'
 Bundler.setup
 require File.expand_path('../../../../conf/ro_r4py', __FILE__)
-require "ro_cmds_runner"
+require "ro_cmd_runner"
 
 module ::RoCell
   module Py
-    class Runner < ::RoCmdsRunner
+    class Runner < ::RoCmdRunner
       def load_ro_cmds(ins_name, *args, &blk)
         begin
           super

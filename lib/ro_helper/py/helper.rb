@@ -3,7 +3,7 @@ module ::RoHelper
   module Py
     module Helper
       def py_pj
-  @py_pj ||= RoR4py.cur_parent
+        @py_pj ||= RoR4py.cur_parent
         RoFile.join @py_pj, *args, &blk
       end
 

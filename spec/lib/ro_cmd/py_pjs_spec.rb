@@ -1,8 +1,8 @@
 require 'rails_helper'
 
-describe "::RoCmds::PyNav" do
+describe "::RoCmd::PyNav" do
   let(:o) do
-    ::RoCmds::Pys.new
+    ::RoCmd::Pys.new
   end
 
   before do

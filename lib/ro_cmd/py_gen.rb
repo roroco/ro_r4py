@@ -1,10 +1,10 @@
 require File.expand_path("../../../conf/ro_r4py", __FILE__)
 require 'ro_cell/py/rb'
 require_relative 'py_test_file'
-require 'ro_cmds/gen'
+require 'ro_cmd/gen'
 require 'ro_helper/py/helper'
 
-module RoCmds
+module RoCmd
   class PyGen < Gen
     include ::RoHelper::Py::Helper
 
@@ -12,7 +12,7 @@ module RoCmds
 
     def test_file(*args, &blk)
       test_helper
-      ::RoCmds::PyTestFile.new.create(*args, &blk)
+      ::RoCmd::PyTestFile.new.create(*args, &blk)
     end
 
     usg :test_helper

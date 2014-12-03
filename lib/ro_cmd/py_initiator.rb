@@ -1,5 +1,5 @@
-module ::RoCmds
-  class PyInit < ::RoCmds::RoR4pyBase
+module ::RoCmd
+  class PyInitiator < ::RoCmd::RoR4pyBase
     usg :py2
 
     def py2(*args, &blk)

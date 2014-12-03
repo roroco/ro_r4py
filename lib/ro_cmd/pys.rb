@@ -1,7 +1,7 @@
 require File.expand_path('../../../conf/ro_r4py', __FILE__)
-require 'ro_cmds/rbs'
-module ::RoCmds
-  class Pys < ::RoCmds::Rbs
+require 'ro_cmd/rbs'
+module ::RoCmd
+  class Pys < ::RoCmd::Rbs
     usg :dir
 
     def dir(*args, &blk)

@@ -1,8 +1,8 @@
-require 'ro_cmds/cmds_plus_base'
+require 'ro_cmd/cmds_plus_base'
 
 require File.expand_path('../../../conf/ro_r4py', __FILE__)
 
-module ::RoCmds
+module ::RoCmd
 	class RoR4pyBase < CmdsPlusBase
 
 		protected

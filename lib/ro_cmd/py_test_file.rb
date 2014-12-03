@@ -1,10 +1,10 @@
 require File.expand_path('../../../conf/ro_r4py', __FILE__)
-require 'ro_cmds/py_test_file'
+require 'ro_cmd/py_test_file'
 require 'ro_helper/py/helper'
 require 'ro_cell/py/test_file_attrs'
 
-module RoCmds
-  class PyTestFile < ::RoCmds::TestFile
+module RoCmd
+  class PyTestFile < ::RoCmd::TestFile
     include ::RoHelper::Py::Helper
 
     def format_file(*args, &blk)

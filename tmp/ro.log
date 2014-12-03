@@ -1,0 +1,18 @@
+2014-12-01 12:34:53 - 12:34:53: readlines /home/roroco/Dropbox/rbs/ro_code/../ro_r4py/Gemfile  ---- basic.rb:85
+2014-12-01 12:34:53 - 12:34:53: write    /home/roroco/Dropbox/rbs/ro_code/../ro_r4py/Gemfile  ---- basic.rb:85
+2014-12-01 12:34:54 - 12:34:54: cd /home/roroco/Dropbox/rbs/ro_code/../ro_r4py; bundle install --gemfile=/home/roroco/Dropbox/rbs/ro_code/../ro_r4py/Gemfile ---- basic.rb:85
+2014-12-01 16:34:43 - 16:34:43: readlines /home/roroco/Dropbox/rbs/ro_code/../ro_r4py/Gemfile  ---- basic.rb:85
+2014-12-01 16:34:43 - 16:34:43: write    /home/roroco/Dropbox/rbs/ro_code/../ro_r4py/Gemfile  ---- basic.rb:85
+2014-12-01 16:34:44 - 16:34:44: cd /home/roroco/Dropbox/rbs/ro_code/../ro_r4py; bundle install --gemfile=/home/roroco/Dropbox/rbs/ro_code/../ro_r4py/Gemfile ---- basic.rb:85
+2014-12-01 18:00:56 - 18:00:55: readlines /home/roroco/Dropbox/rbs/ro_code/../ro_r4py/Gemfile  ---- basic.rb:85
+2014-12-01 18:00:56 - 18:00:56: write    /home/roroco/Dropbox/rbs/ro_code/../ro_r4py/Gemfile  ---- basic.rb:85
+2014-12-01 18:00:56 - 18:00:56: run      '
+cd /home/roroco/Dropbox/rbs/ro_code/../ro_r4py; bundle install --gemfile=/home/roroco/Dropbox/rbs/ro_code/../ro_r4py/Gemfile' on roroco@localhost ---- basic.rb:85
+2014-12-01 18:05:28 - 18:05:28: readlines /home/roroco/Dropbox/rbs/ro_code/../ro_r4py/Gemfile  ---- basic.rb:85
+2014-12-01 18:05:28 - 18:05:28: write    /home/roroco/Dropbox/rbs/ro_code/../ro_r4py/Gemfile  ---- basic.rb:85
+2014-12-01 18:05:29 - 18:05:29: run      '
+cd /home/roroco/Dropbox/rbs/ro_code/../ro_r4py; bundle install --gemfile=/home/roroco/Dropbox/rbs/ro_code/../ro_r4py/Gemfile' on roroco@localhost ---- basic.rb:85
+2014-12-02 23:07:56 - 23:07:56: readlines /home/roroco/Dropbox/rbs/ro_code/../ro_r4py/Gemfile  ---- helper.rb:609
+2014-12-02 23:07:56 - 23:07:56: write    /home/roroco/Dropbox/rbs/ro_code/../ro_r4py/Gemfile  ---- helper.rb:609
+2014-12-02 23:07:56 - 23:07:56: run      '
+cd /home/roroco/Dropbox/rbs/ro_code/../ro_r4py; bundle install --gemfile=/home/roroco/Dropbox/rbs/ro_code/../ro_r4py/Gemfile' on roroco@localhost ---- basic.rb:144
