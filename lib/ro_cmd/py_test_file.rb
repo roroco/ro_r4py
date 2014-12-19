@@ -13,7 +13,7 @@ module RoCmd
     end
 
     def test_file
-  @test_file ||= lambda do
+      @test_file ||= lambda do
         @parent_basename_sc, @basename_sc = parent_basename_and_basename(path_scs)
 
         r = match_file.gsub(py_pj, "").prefix(py_pj("tests")).gsub(%r{\/([^\/]+)$}) do
@@ -28,7 +28,7 @@ module RoCmd
     end
 
     def test_file_attrs
-  @test_file_attrs ||= ::RoCell::Py::TestFileAttrs.new(match_file: match_file)
+      @test_file_attrs ||= ::RoCell::Py::TestFileAttrs.new(match_file: match_file)
     end
 
     def test_tt_path(*args, &blk)
@@ -54,9 +54,9 @@ module RoCmd
       raise ::RoErr::NotFound, "not find match file with path_sc: #{path_scs} in #{py_pj}"
     end
 
-attr_accessor :parent_basename_sc
+    attr_accessor :parent_basename_sc
 
-attr_accessor :basename_sc
+    attr_accessor :basename_sc
 
   end
 end
